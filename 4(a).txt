@@ -44,8 +44,8 @@ def insertion_sort(arr):
 
 my_list = []
 
-for i in range(10):
-    my_list.append(random.randint(0, 999))
+for i in range(5):
+    my_list.append(random.randint(0,50))
 
 print("\nUnsorted List")
 print(my_list)
@@ -56,8 +56,8 @@ print(my_list)
 
 my_list = []
 
-for i in range(10):
-    my_list.append(random.randint(0, 999))
+for i in range(5):
+    my_list.append(random.randint(0,50))
 
 print("\nUnsorted List")
 print(my_list)
